@@ -9,6 +9,10 @@ The following prerequisites are required
 
 ## Installation
 1. clone this repo and run install.sh
+2. change default shell to zsh
+```
+chsh -s $(which zsh)
+```
 
 ### What Happens
 install.sh will install the following software
